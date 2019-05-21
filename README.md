@@ -1,0 +1,2 @@
+# MYSMARTPRICE-CLONE-SCRIPT-WEBSITE-SCRIPTS
+MySmartPrice Clone is a platform which lets you discover the best products across a wide array of categories that include;  Mobiles, Electronics, Computers, Fashion and Lifestyle, Cameras, Books, Appliances and Personal Care.  Our price comparison engine enables you in finding the best price, as well as deals and offers from all major e-commerce stores in India. Our latest offering, MSP Fashion, assists you in finding the ideal look for any season, and features brands from all over the globe
